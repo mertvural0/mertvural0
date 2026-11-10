@@ -12,10 +12,10 @@ I am a Mathematics graduate transitioning into **Data Analytics & Business Intel
 ---
 
 ### 📊 GitHub Stats:
-![Rıta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=tokyonight)
+![Rıta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertvural0&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 📫 Reach me:
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **LinkedIn:** https://www.linkedin.com/in/mert-vural-2b661a395/
 * **Email:** mertvural4151@gmail.com
